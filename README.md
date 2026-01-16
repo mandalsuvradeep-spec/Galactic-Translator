@@ -2,12 +2,14 @@
 
 **A real-time AI voice & text translation engine with a custom sci-fi interface.**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](PASTE_YOUR_STREAMLIT_APP_LINK_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://galactic-translator-chfm2mbvmy2us47vminqtt.streamlit.app/)
 
 ## 🚀 Overview
 The **Universal Translator** is a Python-based web application that bridges language barriers using neural machine translation. Built with a focus on UI/UX, it features a custom "Deep Space" aesthetic with glassmorphism effects and neon accents.
 
 It allows users to input text or speak directly into the microphone, translates the content into over 10 languages, and reads the result back using AI text-to-speech.
+
+**🔴 Live Demo:** [Click here to launch the app](https://galactic-translator-chfm2mbvmy2us47vminqtt.streamlit.app/)
 
 ## ✨ Key Features
 * **🎙️ Voice-to-Text:** Real-time speech recognition for hands-free input.
