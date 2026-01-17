@@ -1,5 +1,0 @@
-streamlit
-deep-translator
-gTTS
-streamlit-mic-recorder
-SpeechRecognition
